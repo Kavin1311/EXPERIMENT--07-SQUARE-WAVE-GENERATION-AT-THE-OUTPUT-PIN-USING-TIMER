@@ -244,7 +244,8 @@ FREQUENCY = 1/(TOTAL TIME) = 1/4 = 250Hz
 
 FOR PULSE AT 900
 
-![Uploading WhatsApp Image 2024-10-16 at 05.47.50_03542d6f.jpg…]()
+![WhatsApp Image 2024-10-16 at 05 47 50_7a64999c](https://github.com/user-attachments/assets/36c95632-3b70-475f-90d7-7c45e868ea3f)
+
 
 TON = 3.5ms 
 TOFF= 0.5ms 

@@ -215,8 +215,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
- 
- ![WhatsApp Image 2024-10-16 at 05 49 02_2d7aa864](https://github.com/user-attachments/assets/412551c4-1a00-422a-b52d-80c989c41755)
+
+ ![Uploading WhatsApp Image 2024-10-16 at 05.48.20_89585c76.jpg…]()
+
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 ![WhatsApp Image 2024-10-16 at 05 48 07_1f9159b2](https://github.com/user-attachments/assets/a03ac507-1aed-477b-94b3-8860cb1127b4)
